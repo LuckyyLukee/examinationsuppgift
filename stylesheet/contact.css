@@ -325,12 +325,13 @@ h1,h2,h3,h4,h5{
     padding: 1.5em 1em;
 
     border-radius: 25px;
+    bottom: -3em;
 
   }
 
   .visit-us-container {  
-    width: 20%;
-    height: 25vh
+    width: 22em;
+    height: 20em;
   }
   .visit-us-container h1 {
     font-size: 4.5rem;
